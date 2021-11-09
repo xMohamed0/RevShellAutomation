@@ -22,7 +22,7 @@ RevShellAutomation is very simple tool, developed using Bash language to facilit
                  * Ruby 
                  * PHP )
 
-# Pictures 
+# Demos 
 
 ![image](https://user-images.githubusercontent.com/94008154/140980845-c672975e-5f7e-41a4-aa90-149194f692d1.png)
 
