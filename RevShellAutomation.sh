@@ -771,7 +771,7 @@ StartList() {
         printf "${NC}\n\n"
         read -p "N for nc M for Meterpreter, Press any key for return  >>  " nm
         case $nm in
-          [Nn]* ) make install; break;;
+          [Nn]* ) NCLIST;;
           [Mm]* ) METER;;
         esac
     #done
